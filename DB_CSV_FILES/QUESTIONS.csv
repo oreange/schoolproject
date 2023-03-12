@@ -1,0 +1,18 @@
+QuestionID,Question,Answer,Topic
+1,15 + 3,18,Number
+2,12 + 10,22,Number
+3,10 - 7,3,Number
+4,22 - 17,5,Number
+5,How many sides does a square have?,4,Shape
+6,How many sides in a pentagon,5,Shape
+7,8 +7,15,Number
+8,? sides in a triangle,3,Shape
+9,16 + 21,37,Number
+10,15 - 5,10,Number
+11,17 - 14,3,Number
+12,5 + 2,7,Number
+13,13 - 7,5,Number
+14,2 x 2,4,Number
+15,34 - 12,22,Number
+16,0001 + 0001,0010,Number
+17,11 - a = 6,5,Algebra
